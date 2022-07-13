@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the syncloud.klmhsb42 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: syncloud.klmhsb42\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-07 16:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/About.qml:40
+msgid "About"
+msgstr ""
+
+#: ../qml/About.qml:95 ../qml/Main.qml:365 ../qml/Options.qml:83
+msgid "Syncloud"
+msgstr ""
+
+#: ../qml/About.qml:103
+msgid "Version %1. Under License %2"
+msgstr ""
+
+#: ../qml/About.qml:136
+msgid "About Syncloud"
+msgstr ""
+
+#: ../qml/About.qml:137 ../qml/Options.qml:143
+msgid "Source"
+msgstr ""
+
+#: ../qml/About.qml:138 ../qml/About.qml:157
+msgid "hosted at Github"
+msgstr ""
+
+#: ../qml/About.qml:141 ../qml/About.qml:146 ../qml/Options.qml:147
+#: ../qml/Options.qml:152
+msgid "Support"
+msgstr ""
+
+#: ../qml/About.qml:142 ../qml/Options.qml:148
+msgid "Issues & Wishes"
+msgstr ""
+
+#: ../qml/About.qml:147 ../qml/Options.qml:153
+msgid "Mail"
+msgstr ""
+
+#: ../qml/About.qml:151 ../qml/About.qml:152 ../qml/About.qml:155
+#: ../qml/Options.qml:157 ../qml/Options.qml:158 ../qml/Options.qml:161
+msgid "Maintainer"
+msgstr ""
+
+#: ../qml/About.qml:156
+msgid "Our Work"
+msgstr ""
+
+#: ../qml/About.qml:160 ../qml/Options.qml:166 ../qml/Options.qml:171
+msgid "Donations"
+msgstr ""
+
+#: ../qml/About.qml:162
+msgid "Support us"
+msgstr ""
+
+#: ../qml/Main.qml:242
+msgid "sub.syncloud.it"
+msgstr ""
+
+#: ../qml/Main.qml:373
+msgid "Build your own server. <a href='https://syncloud.org'>Learn more!</a>"
+msgstr ""
+
+#: ../qml/Main.qml:380 ../qml/Options.qml:100
+msgid "SIGN UP"
+msgstr ""
+
+#: ../qml/Main.qml:389
+msgid "Already have an account? <a href='#'>Sign in!</a>"
+msgstr ""
+
+#: ../qml/Options.qml:91
+msgid "Build your own server. %1"
+msgstr ""
+
+#: ../qml/Options.qml:109
+msgid "Already have an account? %1"
+msgstr ""
+
+#: ../qml/Options.qml:142
+msgid "About CryptoPrice"
+msgstr ""
+
+#: ../qml/Options.qml:144 ../qml/Options.qml:163
+msgid "hosted at Gitlab"
+msgstr ""
+
+#: ../qml/Options.qml:162
+msgid "My Work"
+msgstr ""
+
+#: ../qml/Options.qml:168
+msgid "Support my work"
+msgstr ""
+
+#: ../qml/Options.qml:173
+msgid "Buy me a beer"
+msgstr ""
+
+#: ../qml/Settings.qml:33
+msgid "Settings"
+msgstr ""
+
+#: ../qml/Settings.qml:91 ../qml/Settings.qml:96
+msgid "ACCOUNT"
+msgstr ""
+
+#: ../qml/Settings.qml:92
+msgid "Email"
+msgstr ""
+
+#: ../qml/Settings.qml:93
+msgid "example@company.com"
+msgstr ""
+
+#: ../qml/Settings.qml:97
+msgid "Sign out from Syncloud"
+msgstr ""
+
+#: ../qml/Settings.qml:103
+msgid "FEEDBACK"
+msgstr ""
+
+#: ../qml/Settings.qml:104
+msgid "Send log file"
+msgstr ""
+
+#: ../qml/Settings.qml:108
+msgid "ADVANCED"
+msgstr ""
+
+#: ../qml/Settings.qml:109
+msgid "Server"
+msgstr ""
+
+#: syncloud.desktop.in.h:1
+msgid "syncloud"
+msgstr ""

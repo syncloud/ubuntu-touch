@@ -1,0 +1,15 @@
+{
+    "name": "syncloud.klmhsb42",
+    "description": "Unofficial Syncloud app",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Syncloud",
+    "hooks": {
+        "syncloud": {
+            "apparmor": "syncloud.apparmor",
+            "desktop":  "syncloud.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Sebastian Britz <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
