@@ -18,7 +18,7 @@ First, install clickable https://clickable-ut.dev/en/latest/
 
 1. download the project directory
 2. ```cd``` into project directory
-3. run ```clickable ide qtcreator```
+3. run ```clickable desktop``` or ```clickable ide qtcreator```
 
 ### For building on Ubuntu touch device
 
